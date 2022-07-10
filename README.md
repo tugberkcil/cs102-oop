@@ -24,6 +24,7 @@
 
 ## 🗣️ About
 
-Homework and projects that I did in Ozyegin University CS102 object oriented programming course using the Java programming language.
+	Homework and projects that I did in Ozyegin University CS102 object oriented programming 
+	course using the Java programming language.
 
 
