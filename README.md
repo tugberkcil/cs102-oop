@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	<b><i>Development repo for CS201 homeworks and projects</i></b><br>
+	<b><i>Development repo for CS102 homeworks and projects</i></b><br>
 </p>
 
 <p align="center">
